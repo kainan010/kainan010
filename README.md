@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/kainan010">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kainan010&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&title-color=blue"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainan010&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kainan010&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&title-color=blue"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainan010&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="kainan-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"">
