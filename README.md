@@ -29,38 +29,15 @@ Here are the technologies and tools I use daily to bring applications to life:
 
 <div align="center">
 
-  <!-- Main Android Languages -->
   <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">   <!-- Tools and IDEs -->   <img align="center" alt="Android Studio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">   <!-- Other Technologies -->   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+  <img align="center" alt="Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="Android Studio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     
 
 </div>
-
-📊 GitHub Statistics
-
-<div align="center">
-<a href="https://github.com/kainan010">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kainan010&show_icons=true&theme=android&include_all_commits=true&count_private=true&title_color=3DDC84&icon_color=3DDC84&text_color=ffffff&bg_color=000000" alt="Kainan's GitHub Stats" />
-  </a>
-  <a href="https://github.com/kainan010">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainan010&layout=compact&theme=android&title_color=3DDC84&text_color=ffffff&bg_color=000000" alt="Most Used Languages" />
-  </a>
-</div>
-
-🚀 Featured Projects
-
-(You can add links to your best Android projects here )
-
-•
-📱 Android Project Name 1 - Brief description of the app, technologies used (e.g., Kotlin, MVVM, Room).
-
-•
-📱 Android Project Name 2 - Brief description of the app, focused on API consumption or UI/UX interface.
 
 💡 Android Development Focus
 
@@ -87,6 +64,7 @@ API Integration - RESTful services with Retrofit and OkHttp
 •
 Version Control - Git and GitHub workflow management
 
+
 📫 Get in Touch
 
 I'm always open to new opportunities, collaborations on Android projects, or just a good chat about technology!
@@ -105,3 +83,4 @@ I'm always open to new opportunities, collaborations on Android projects, or jus
  <div align="center">
   <img src="https://img.shields.io/badge/Android%20Developer-Active-3DDC84?style=for-the-badge" alt="Android Developer Badge" />
 </div>
+
