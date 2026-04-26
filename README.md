@@ -5,6 +5,8 @@
   <i>I'm an Android Developer passionate about creating innovative and efficient applications. My journey in technology is focused on the mobile ecosystem, transforming ideas into real solutions that fit in the palm of your hand. With a focus on clean code, scalable architecture, and the best user experience, I always strive for the best practices in modern Android development.</i>
 </div>   
 
+
+
 📱 About Me
 
 •
@@ -23,21 +25,23 @@
 ⚡ Fun fact: I believe a good app starts with good architecture and empathy for the end user.
 
 
+
+
 🛠️ My Android Stack & Tools
 
 Here are the technologies and tools I use daily to bring applications to life:
 
 <div align="center">
-
-  <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="center" alt="Android Studio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    
-
+<img alt="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="margin: 0 10px;">
+  <img alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin: 0 10px;">
+  <img alt="Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="margin: 0 10px;">
+  <img alt="Android Studio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="margin: 0 10px;">
+  <img alt="Firebase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="margin: 0 10px;">
+  <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 0 10px;">
 </div>
+
+
+
 
 💡 Android Development Focus
 
@@ -63,6 +67,8 @@ API Integration - RESTful services with Retrofit and OkHttp
 
 •
 Version Control - Git and GitHub workflow management
+
+
 
 
 📫 Get in Touch
